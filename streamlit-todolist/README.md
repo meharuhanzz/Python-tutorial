@@ -23,7 +23,6 @@ Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 
 - `app.py` — the app
 - `requirements.txt` — dependencies
-- `generate_pdf.py` — regenerates the mentoring guide PDF
 - `Project_ToDo_List_Mentoring_Guide.pdf` — the guide
 
 ## Author
