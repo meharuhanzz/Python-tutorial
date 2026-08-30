@@ -8,6 +8,13 @@ A minimal to-do list web app with a full mentoring guide (how Streamlit
 works, code walkthrough, exercises). See
 [`streamlit-todolist/`](streamlit-todolist/).
 
+## Expense Tracker
+
+A minimal expense tracker web app — log expenses, filter by category,
+delete them, see totals and a spending-by-category chart — with the same
+kind of full mentoring guide. See
+[`streamlit-expensetracker/`](streamlit-expensetracker/).
+
 ## Python in 15 Days
 
 A full beginner Python course — browse day-by-day right here as folders,
