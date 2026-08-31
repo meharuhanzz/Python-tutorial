@@ -15,6 +15,25 @@ delete them, see totals and a spending-by-category chart — with the same
 kind of full mentoring guide. See
 [`streamlit-expensetracker/`](streamlit-expensetracker/).
 
+## Digital Clock
+
+A live digital clock (client-side JS via `st.iframe`), a timezone lookup
+using the standard-library `zoneinfo` module, and a session-state-driven
+stopwatch. See [`streamlit-digitalclock/`](streamlit-digitalclock/).
+
+## PDF Generator
+
+Build a simple document from title + content blocks (paragraphs,
+headings, bullet lists) and download it as a real PDF, built entirely in
+memory with `reportlab`. See [`streamlit-pdfgenerator/`](streamlit-pdfgenerator/).
+
+## Plagiarism Checker
+
+Compares two texts for overlap using the standard-library `difflib`
+module — two similarity scores, and a highlighted diff of the matching
+passages. A teaching tool, not a research-grade detector (the guide
+explains why). See [`streamlit-plagiarismchecker/`](streamlit-plagiarismchecker/).
+
 ## Python in 15 Days
 
 A full beginner Python course — browse day-by-day right here as folders,
